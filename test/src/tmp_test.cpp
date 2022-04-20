@@ -1,4 +1,4 @@
-#include "project/tmp.hpp"
+#include "mynewproject/tmp.hpp"
 
 #include <gtest/gtest.h>
 
